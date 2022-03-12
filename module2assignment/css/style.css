@@ -13,7 +13,7 @@ p {
     border: 1px solid black;
     margin-top: 0; color: darkorange; 
     
-    padding: 5px 20px 5px 20px;
+    padding: 5px 15px 5px 15px;
 
 }
 .n1 {background-color: azure;}
@@ -26,7 +26,7 @@ clear: right;}
 @media (min-width:992px) {
     .ld4 {
         
-        float: left; padding: 15px; 
+        float: left; padding: 10px; 
     }
      
      .ld4 {width: 33.33%;}
